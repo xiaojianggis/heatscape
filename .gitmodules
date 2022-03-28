@@ -1,0 +1,4 @@
+[submodule "u-dales"]
+	path = u-dales
+	url = https://github.com/uDALES/u-dales.git
+	branch = master
